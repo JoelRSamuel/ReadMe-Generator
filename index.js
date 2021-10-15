@@ -29,11 +29,11 @@ const questions = [
         type: 'input',
         message: 'What are the guidelines for contribution?',
         name: 'contribution', 
-      }
+      },
       {
         type: 'input',
         message: 'What are the testing instructions?',
-        name: 'contribution', 
+        name: 'testing', 
       }
 ];
 
